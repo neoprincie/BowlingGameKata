@@ -1,5 +1,0 @@
-C:\Users\Bryan\Documents\Visual Studio 2017\git\BowlingGameKata\BowlingGameKata\BowlingGameKata\bin\Debug\BowlingGameKata.dll
-C:\Users\Bryan\Documents\Visual Studio 2017\git\BowlingGameKata\BowlingGameKata\BowlingGameKata\bin\Debug\BowlingGameKata.pdb
-C:\Users\Bryan\Documents\Visual Studio 2017\git\BowlingGameKata\BowlingGameKata\BowlingGameKata\obj\Debug\BowlingGameKata.csprojResolveAssemblyReference.cache
-C:\Users\Bryan\Documents\Visual Studio 2017\git\BowlingGameKata\BowlingGameKata\BowlingGameKata\obj\Debug\BowlingGameKata.dll
-C:\Users\Bryan\Documents\Visual Studio 2017\git\BowlingGameKata\BowlingGameKata\BowlingGameKata\obj\Debug\BowlingGameKata.pdb
